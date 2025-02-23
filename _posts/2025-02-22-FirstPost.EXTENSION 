@@ -5,6 +5,17 @@ categories:
 tags:     # TAG names should always be lowercase
 ---
 
-Today I studied ~300 practice questions for Network+.
+Yesterday I studied ~300 practice questions for Network+.
 
-I also installed VSCode and Docker Desktop and created this blog using Jekyll with Github Actions and Github Pages.
+Today I installed VSCode and Docker Desktop and created this blog using Jekyll with Github Actions and Github Pages.
+
+I altered the _config.yml file to add a few personal details to the site.
+
+I then created this first blog post.
+
+For my class at CIAT, I did two labs in Packet Tracer:
+* I tinkered with the DNS settings to connect web pages stored on a server to become accessible to connected devices.
+* I connected to a router's network using both wired and wireless networks.
+* I used DHCP to assign a variety of devices to the wired network.
+* I assigned subnet masks according to the classless networks I created, which accomodated for 62 and 30 devices between two different networks.
+* And more!
